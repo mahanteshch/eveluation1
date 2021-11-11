@@ -1,0 +1,218 @@
+body{
+	background-color: white;
+	color: black;
+	font-family: serif;
+	font-size: 15px;
+	line-height: 1.7em;
+	margin: none;
+
+}
+
+#logo{
+	top:o; 
+	left:0; 
+	overflow: hidden;
+	margin: 15px;
+}
+
+#navigation{
+	background-color: white;
+	color: #fff;
+	float: right;
+	top: 30px;
+	overflow: hidden;
+	height: 20px;
+
+}
+
+#navigation ul{
+	list-style: none;
+	padding-left: 10px;
+}
+
+#navigation li{
+	display: inline;
+}
+
+#navigation a{
+	font-size: 18px;
+	text-decoration: none;
+	color: black;
+	padding-right: 20px;
+}
+
+#navigation a:hover{
+	color: blue;
+}
+
+#container-2{
+	background-image: url('../images/group.jpg');
+	padding-top: 50px;
+	height: 400px;
+	width: 100%;
+	text-align: center;
+	padding-top: 100px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+#container-3{
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+
+#left-content{
+	width: 50%;
+	float:left;
+	padding: 20px;
+	font-size: 20px;
+	margin: 40px;
+	color: black;
+}
+
+#add_image{
+float: right;
+width: 50%;
+
+}
+
+.influence{
+	background-color: #f4f4f4;
+	text-align: center;
+	text-decoration: none;
+}
+
+#i_head{
+	text-align: center;
+	padding-top: 40px;
+	color: black;
+}
+
+#i_para{
+	text-align: center;
+	color: black;
+	font-size: 15px;
+	margin-right: 330px;
+	margin-left: 330px;
+}
+
+.block{
+	padding-bottom: 10px 10px;
+	text-align: center;
+	box-sizing: border-box;
+	float: left;
+	width: 25%;
+	border: 1px solid #fff;
+	background-color: #f4f4f4;
+	color: black;
+	padding-bottom: 25px;
+}
+
+#ser_img{
+	display: block;
+  	margin-left: 20%;
+  	margin-right: 20%
+}
+
+#service_para{
+	text-align: center;
+	color: black;
+	font-size: 15px;
+	margin-right: 330px;
+	margin-left: 330px;
+	padding-bottom: 25px;	
+	border-bottom: 1px solid #25250e;
+}
+
+#end_ser{
+	color: black;
+}
+
+#h_programs{
+	text-align: center;
+	padding-top: 40px;
+	color: black;
+}
+
+#p_programs{
+	text-align: center;
+	color: black;
+	font-size: 15px;
+	margin-right: 330px;
+	margin-left: 330px;
+}
+
+.column{
+	box-sizing: border-box;
+	float: left;
+	width: 50%;
+	padding: 5px;
+}
+
+#h_social{
+	text-align: center;
+	padding-top: 40px;
+	color: black;
+}
+
+#p_social{
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	margin-right: 330px;
+	margin-left: 330px;
+}	
+
+.a_image{
+	box-sizing: border-box;
+	padding-left: 300px;
+
+}
+
+#m_achive{
+	text-align: center;
+}
+
+.achive{
+	text-align: center;
+	box-sizing: border-box;
+	float: left;
+	border: 1px solid #fff;
+	color: black;
+	padding-left: 200px;
+}
+
+
+
+.end{
+
+	background-color: #f4f4f4;
+	height:400px;
+}
+
+.end pre:hover{
+	color: blue;
+}
+
+#ok{
+
+}
+
+
+#social{
+	background-image: url('../images/aarogya.jpg');
+	padding-top: 50px;
+	text-align: center;
+	height: 400px;
+	width: 60%;
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+	float: right;
+	background-repeat: no-repeat;
+}
+
+
